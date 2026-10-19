@@ -4,7 +4,7 @@
 
 Senior healthcare data engineer with 15+ years in health plan and benefits data, including 7+ years building production pipelines and data platforms. I design governed lakehouses for payer data: medical and pharmacy claims, eligibility, prior authorization, utilization management, and FHIR clinical data.
 
-Currently architecting a Microsoft Fabric lakehouse modernization (25+ production pipelines, 100K+ members) and production Apache Airflow orchestration for FHIR data.
+Currently architecting a Microsoft Fabric lakehouse modernization (25+ production pipelines, 100K+ members). I also built production Azure Data Factory orchestration for FHIR clinical data; the [Airflow project](https://github.com/KilgoreC1024/airflow-synthetic-clinical-etl) below recreates that pattern on synthetic data, so you can run it without an Azure account.
 
 ---
 
